@@ -1,0 +1,6 @@
+{
+	"name": "EIP5.0",
+	"dependencies": {
+		"angularjs": "1.4.6"
+	}
+}
